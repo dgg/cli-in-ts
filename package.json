@@ -1,7 +1,7 @@
 {
 	"name": "my-cli-in-ts",
 	"version": "1.0.0",
-	"description": "",
+	"description": "THE description",
 	"main": "server.js",
 	"bin": "server.js",
 	"scripts": {},
