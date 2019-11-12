@@ -1,27 +1,27 @@
 {
-  "name": "cli-in-ts",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dgg/cli-in-ts.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dgg/cli-in-ts/issues"
-  },
-  "homepage": "https://github.com/dgg/cli-in-ts#readme",
-  "devDependencies": {
-    "ts-node": "^8.5.0",
-    "typescript": "^3.7.2"
-  },
-  "dependencies": {
-    "oclif": "^1.14.2"
-  }
+	"name": "my-cli-in-ts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"bin": "server.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dgg/cli-in-ts.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dgg/cli-in-ts/issues"
+	},
+	"homepage": "https://github.com/dgg/cli-in-ts#readme",
+	"devDependencies": {
+		"cli-in-ts": "^1.0.4",
+		"ts-node": "^8.5.0",
+		"typescript": "^3.7.2"
+	},
+	"dependencies": {
+		"oclif": "^1.14.2"
+	}
 }
